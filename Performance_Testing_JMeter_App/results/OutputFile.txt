@@ -1,0 +1,7 @@
+Page was loaded 1 times with an average load time of 2826 ms.
+Speed test succeeded 0 times with an average runtime of 0 ms.
+Speed test failed 1 times with an average recognition time of 10053 ms.
+
+Page was loaded 1 times with an average load time of 1820 ms.
+Calculator press succeeded 13 times with an average runtime of 26 ms.
+Calculator press failed 0 times with an average recognition time of 0 ms.
